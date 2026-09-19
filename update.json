@@ -1,0 +1,12 @@
+{
+  "format": "zhixing-app-release",
+  "schemaVersion": 1,
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "packageId": "cn.zhixing.practice",
+  "minSdk": 26,
+  "bytes": 9053920,
+  "sha256": "2b6a36313f4e76ab6c42be242afed14f5f51273b9da8a3c8223da61d40a1beb7",
+  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.2.0/zhixing-1.2.0.apk",
+  "notes": "# 1.2.0 更新说明\n\n- 练习途中可打开答题卡、返回前题，跳过的题可立即重新作答；已提交的错误或已看解释不能在本组覆盖为独立答对。\n- 开始新组前可选择题数（当前范围最多 50 题）和不限时/1—180 分钟总时限；进行中的组恢复原设置。计时包括查看解析和切后台，到期收尾，未提交不记错。\n- 新增错题复习入口：答错或看过解释的题保留到独立答对，再移出待掌握列表；历史作答保留。\n- 首页领域/题集使用标签，难度独立为带说明的单选面板。图示左侧关闭，右上角显示双指缩放提示。\n- 新增考研政治原创单选入门题集：6 张卡、18 道题；非肖1000、非官方真题，不代表完整考试范围。全库共 54 卡、162 题。\n- 接通公开题库更新。题库和 APK 分别发布在 StudyApp-Catalog、StudyApp-Releases，源码继续私有。\n- 设置内可检查 App 新版本、下载并经 Android 系统确认覆盖安装。安装前验证哈希、包名、版本和签名；不上传学习记录，无需 API key。\n- Room 2→3 迁移与旧备份兼容，覆盖安装保留记录。已有 1.1.0 首次需要手动安装此版，之后可使用应用内更新。"
+}
