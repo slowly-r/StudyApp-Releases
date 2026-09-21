@@ -1,12 +1,12 @@
 {
   "format": "zhixing-app-release",
   "schemaVersion": 1,
-  "versionCode": 4,
-  "versionName": "1.3.0",
+  "versionCode": 5,
+  "versionName": "1.4.0",
   "packageId": "cn.zhixing.practice",
   "minSdk": 26,
-  "bytes": 9340492,
-  "sha256": "b4170a83b68a129b13d59740c11db7ac4d509411c407fd3475d2d27854b98421",
-  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.3.0/zhixing-1.3.0.apk",
-  "notes": "新增七条循序学习路线：28关、28个完整应用案例和6个离线互动演示。\n每关先理解再验证，支持章节挑战跳级、失败只重试验证、随时退出后继续。\n首次通关收录案例，完成章节和路线获得徽章；保留自由练习、自选题量、限时与错题复习。\n内置题库v5，共102张知识卡、418道原创题；新增112道验证题。\n同签名覆盖安装保留旧进度。备份升级至格式4，兼容旧版备份；无需登录或API key。"
+  "bytes": 9455180,
+  "sha256": "0f4a284bb29380406ebf34265c17b9c11eda0a66096ac6cec372087796a69a48",
+  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.4.0/zhixing-1.4.0.apk",
+  "notes": "知行小练 1.4.0：主题闯关世界与学习日历\n\n学习页新增同等醒目的「闯关世界」「自由练习」双入口，分别记住领域选择。\n七个学科拥有独立主题地图、节点状态和通关进度，可以继续上次闯关。\n我的收获改为学习日历，支持按日期回看作答、订正、通关和案例收录；移除徽章展示。\n未完成验证保持延迟反馈，回看不会提前透露答案。\n整理代码分层、统一导航与数据保存，为后续扩展页面、学科和互动做准备。\n\n沿用七学科、28 关、418 道题、六个互动演示和题库 v5。覆盖安装保留现有记录；不要先卸载。建议升级前导出备份。"
 }
