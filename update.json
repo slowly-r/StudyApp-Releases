@@ -1,12 +1,12 @@
 {
   "format": "zhixing-app-release",
   "schemaVersion": 1,
-  "versionCode": 5,
-  "versionName": "1.4.0",
+  "versionCode": 6,
+  "versionName": "1.5.0",
   "packageId": "cn.zhixing.practice",
   "minSdk": 26,
-  "bytes": 9455180,
-  "sha256": "0f4a284bb29380406ebf34265c17b9c11eda0a66096ac6cec372087796a69a48",
-  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.4.0/zhixing-1.4.0.apk",
-  "notes": "知行小练 1.4.0：主题闯关世界与学习日历\n\n学习页新增同等醒目的「闯关世界」「自由练习」双入口，分别记住领域选择。\n七个学科拥有独立主题地图、节点状态和通关进度，可以继续上次闯关。\n我的收获改为学习日历，支持按日期回看作答、订正、通关和案例收录；移除徽章展示。\n未完成验证保持延迟反馈，回看不会提前透露答案。\n整理代码分层、统一导航与数据保存，为后续扩展页面、学科和互动做准备。\n\n沿用七学科、28 关、418 道题、六个互动演示和题库 v5。覆盖安装保留现有记录；不要先卸载。建议升级前导出备份。"
+  "bytes": 9651788,
+  "sha256": "2a663db53d31d20bafdddad41b776c6b7ac0241ebc00e7dfe1d1ebd325d33e7e",
+  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.5.0/zhixing-1.5.0.apk",
+  "notes": "知行小练 1.5.0\n\n新增手机日记、照片记录、每日计划与周回看。\n在「我的收获」按日期写一点发现，安排手动事项、练习数量或关卡目标；计划可改期、取消，已通过的关卡可再次验证。\n周记可导出为 Markdown 和图片 ZIP，方便在电脑阅读。\n\n完整备份升级为 ZIP 5，包含学习、日记草稿、照片、计划和周回看。旧 JSON 仍可恢复学习，现有个人记录保留。恢复先检查并确认，进入替换后请等待完成。\n\n题库保持 102 卡、418 题、28 关，所有个人记录留在本机。请先备份，再覆盖安装，勿先卸载。"
 }
