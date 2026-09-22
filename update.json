@@ -1,12 +1,12 @@
 {
   "format": "zhixing-app-release",
   "schemaVersion": 1,
-  "versionCode": 6,
-  "versionName": "1.5.0",
+  "versionCode": 7,
+  "versionName": "1.5.1",
   "packageId": "cn.zhixing.practice",
   "minSdk": 26,
-  "bytes": 9651788,
-  "sha256": "2a663db53d31d20bafdddad41b776c6b7ac0241ebc00e7dfe1d1ebd325d33e7e",
-  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.5.0/zhixing-1.5.0.apk",
-  "notes": "知行小练 1.5.0\n\n新增手机日记、照片记录、每日计划与周回看。\n在「我的收获」按日期写一点发现，安排手动事项、练习数量或关卡目标；计划可改期、取消，已通过的关卡可再次验证。\n周记可导出为 Markdown 和图片 ZIP，方便在电脑阅读。\n\n完整备份升级为 ZIP 5，包含学习、日记草稿、照片、计划和周回看。旧 JSON 仍可恢复学习，现有个人记录保留。恢复先检查并确认，进入替换后请等待完成。\n\n题库保持 102 卡、418 题、28 关，所有个人记录留在本机。请先备份，再覆盖安装，勿先卸载。"
+  "bytes": 9668172,
+  "sha256": "75b5bf16a44bab558f65b8008d0f9c1689a870811ef62352f5cc46a2cfead870",
+  "apkUrl": "https://github.com/slowly-r/StudyApp-Releases/releases/download/v1.5.1/zhixing-1.5.1.apk",
+  "notes": "知行小练 1.5.1\n\n修复「写一条」重复的返回按钮，现在只保留顶部返回。\n未保存内容退出时，可选择存为草稿、继续编辑或放弃；空白新记录直接退出。\n日历草稿新增删除入口，确认后清除草稿。编辑已保存日记时，放弃草稿不影响原文。\n编辑过程仍保留意外关闭后的恢复能力，防止删除后被迟到的照片或输入重新生成。\n\n学习记录、题库、日记照片和备份格式保持兼容。直接覆盖更新，无需卸载。"
 }
